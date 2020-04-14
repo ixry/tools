@@ -1,4 +1,4 @@
-package check_phone
+package tools
 
 import (
 	"regexp"
